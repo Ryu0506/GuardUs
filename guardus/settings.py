@@ -44,8 +44,7 @@ INSTALLED_APPS = [
     'allauth.account',
     'rest_auth.registration',
     'allauth.socialaccount',
-    #'knox',
-    #'posting',
+    'posting',
     'accounts',
 ]
 
